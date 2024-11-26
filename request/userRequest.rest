@@ -1,0 +1,33 @@
+
+### Recuperar todos los users
+GET http://localhost:3000/api/users/
+
+### Recuperar un user por id
+GET http://localhost:3000/api/users/5
+
+### Recuperar el user con id=999   --> Not found (404)
+GET http://localhost:3000/api/users/999
+
+### signin OK
+POST http://localhost:3000/api/users/signin
+content-type: application/json
+
+{"email":"anabel@gmail.com","password":"anabel"}
+
+### signin password invalid
+POST http://localhost:3000/api/users/signin
+content-type: application/json
+
+{"email":"anabel@gmail.com","password":"no_valid"}
+
+### signin email invalid
+POST http://localhost:3000/api/users/signin
+content-type: application/json
+
+{"email":"novalid@gmail.com","password":"no_valid"}
+
+### signin user blocked
+POST http://localhost:3000/api/users/signin
+content-type: application/json
+
+{"email":"romero@gmail.com","password":"romero"}

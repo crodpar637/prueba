@@ -1,0 +1,9 @@
+
+### Recuperar la información un ticket que existe
+GET http://localhost:3000/api/tickets/24
+
+### Recuperar la información un ticket que NO existe (404)
+GET http://localhost:3000/api/tickets/999999999
+
+### Recuperar la información de tickets vendidos
+GET http://localhost:3000/api/tickets/sold

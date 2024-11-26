@@ -1,0 +1,8 @@
+ seat ( seat_id 	event_zone_id 	row_number 	seat_number 	status 	)
+ event_zones ( event_zone_id 	event_id 	zone_id 	ticket_price 	)
+ zones ( zone_id 	location_id 	name 	num_rows 	seats_per_row 	)
+ locations ( location_id 	name 	address 	total_capacity 	google_maps_url 	plan_image_url 	)
+ events ( event_id 	name 	description 	event_date 	event_time 	location_id 	status 	created_by 	created_at 	)
+ tickets ( ticket_id 	user_id 	seat_id 	payment_id 	purchase_date 	status 	price 	)
+ payments ( payment_id 	user_id 	total_amount 	payment_date 	status 	)
+ seat ( seat_id 	event_zone_id 	row_number 	seat_number 	status 	)

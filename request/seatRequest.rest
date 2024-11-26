@@ -1,0 +1,3 @@
+
+### Recuperar todos los asientos para un evento y una zona :event_zone_id
+GET http://localhost:3000/api/seats/62

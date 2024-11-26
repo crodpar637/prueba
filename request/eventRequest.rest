@@ -1,0 +1,26 @@
+
+### Recuperar todos los eventos
+GET http://localhost:3000/api/events
+
+### Recuperar los próximos 12 eventos
+GET http://localhost:3000/api/events/next-events
+
+### Recuperar el evento por id
+GET http://localhost:3000/api/events/25
+
+### Recuperar el evento id=999   --> Not found (404) 
+GET http://localhost:3000/api/events/999
+
+### Recuperar eventos por cadena de búsqueda 
+GET http://localhost:3000/api/events/search?searchText=conciertos
+
+### Recuperar eventos por cadena de búsqueda siendo la cadena vacía --> devuelve todos
+GET http://localhost:3000/api/events/search
+
+### Actualiza el atributo status
+PATCH http://localhost:3000/api/events/25
+Content-Type: application/json
+
+{
+    "status": "blocked"
+}

@@ -1,0 +1,10 @@
+
+### Recuperar todos los locations y sus zonas asociadas
+GET http://localhost:3000/api/locations/
+
+### Recuperar un location por id
+GET http://localhost:3000/api/locations/1
+
+### Recuperar el location con id = 999 ---> Not found (404)
+GET http://localhost:3000/api/locations/999
+

@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      - PMA_HOST=junction.proxy.rlwy.net:51349
+      - PMA_PORT=51349
+      - PMA_USER=root
+      - PMA_PASSWORD=yNdgfwvakJZgToQskgalYjsrvOXaixcz

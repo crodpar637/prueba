@@ -1,14 +1,14 @@
 const SequelizeAuto = require("sequelize-auto");
 
 const auto = new SequelizeAuto(
-  "ticketmania", // nombre bd
+  "railway", // nombre bd
   "root", // usuario
-  "test", // password
+  "yNdgfwvakJZgToQskgalYjsrvOXaixcz", // password
   {
-    host: "localhost",
+    host: "junction.proxy.rlwy.net",
     dialect: "mysql",
     directory: "./models", // where to write files
-    port: "3306",
+    port: "51349",
     // caseModel: 'c', // convert snake_case column names to camelCase field names: user_id -> userId
     caseFile: "c", // file names created for each model use camelCase.js not snake_case.js
     // singularize: true, // convert plural table names to singular model names

@@ -1,0 +1,126 @@
+{
+  "name": "MEGA LISTA WISEPLAY",
+  "author": "Staff Listaswiseplay - 30/09/2024 ",
+  "image": "https://i.imgur.com/ApcbwHZ.png",
+  "url": "https://megalista.vercel.app/megalista.w3u",
+  "telegram": "listaswiseplay",
+  "info": "Listaswiseplay",
+  "groups": [
+    {
+      "name": "Importar Listas",
+      "image": "https://i.imgur.com/YAaMwxN.png",
+      "stations": [
+        {
+          "name": "MEGALISTA TV WISEPLAY | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://megalista.vercel.app/megalista_tv.w3u",
+          "import": true
+        },
+        {
+          "name": "MEGALISTA VOD WISEPLAY | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://megalista.vercel.app/megalista_vod.w3u",
+          "import": true
+        },
+        {
+          "name": "MEGA LISTA ZERONET | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://megalista.vercel.app/megalista_zeronet.w3u",
+          "import": true
+        },
+        {
+          "name": "CHUKYHOOD | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport",
+          "import": true
+        },
+        {
+          "name": "MEGA SPORT TV (VPN) | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://megalista.vercel.app/megasport.w3u",
+          "import": true
+        },
+        {
+          "name": "WISEPLAY-SPORT BY ELSUPREMO | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://bit.ly/WiseSportMenu",
+          "import": true
+        },
+        {
+          "name": "TIRISTAR TV JUVENIL | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/tirimosqui2/mlpla/main/LATIRI_STAR.w3u",
+          "import": true
+        },
+        {
+          "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://aficionados.vercel.app/af1cionados.w3u",
+          "import": true
+        },
+        {
+          "name": "El Cano [Acestream] | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt",
+          "import": true
+        },
+        {
+          "name": "El Cano [HTTP] | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/get.txt",
+          "import": true
+        }
+      ]
+    },
+    {
+      "name": "MEGALISTA TV WISEPLAY",
+      "image": "https://i.imgur.com/L5RUMsy.png",
+      "url": "https://megalista.vercel.app/megalista_tv.w3u"
+    },
+    {
+      "name": "MEGALISTA VOD WISEPLAY",
+      "image": "https://i.imgur.com/RZuPfC0.png",
+      "url": "https://megalista.vercel.app/megalista_vod.w3u"
+    },
+    {
+      "name": "MEGA LISTA ZERONET",
+      "image": "https://i.imgur.com/3IwhWdp.png",
+      "url": "https://megalista.vercel.app/megalista_zeronet.w3u"
+    },
+    {
+      "name": "CHUKYHOOD",
+      "image": "https://i.imgur.com/AyAdJAl.png",
+      "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport"
+    },
+    {
+      "name": "MEGA SPORT TV (VPN)",
+      "image": "https://i.imgur.com/NW9AUMM.png",
+      "url": "https://megalista.vercel.app/megasport.w3u"
+    },
+    {
+      "name": "WISEPLAY-SPORT BY ELSUPREMO",
+      "image": "https://www.dropbox.com/s/znbssto0jqby1f7/thb.jpg?dl=1",
+      "url": "https://bit.ly/WiseSportMenu"
+    },
+    {
+      "name": "TIRISTAR TV JUVENIL",
+      "image": "https://github.com/tirimosqui2/mlpla/raw/main/logo%20tiri.mp4",
+      "url": "https://raw.githubusercontent.com/tirimosqui2/mlpla/main/LATIRI_STAR.w3u"
+    },
+    {
+      "name": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 BY YIᔕᑌᔕ MΣX",
+      "image": "https://i.postimg.cc/LX5vcPNv/sol-azteca-new.png",
+      "url": "https://aficionados.vercel.app/af1cionados.w3u"
+    },
+    {
+      "name": "El Cano [Acestream]",
+      "image": "https://i.imgur.com/Eg5iqZC.png",
+      "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt"
+    },
+    {
+      "name": "El Cano [HTTP]",
+      "image": "https://i.imgur.com/Eg5iqZC.png",
+      "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/get.txt"
+    }
+  ]
+}
